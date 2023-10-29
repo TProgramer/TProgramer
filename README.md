@@ -6,7 +6,7 @@
 
 </div>
 
-### 👾 Hi, I'm Software Engineer, TProgramer!
+### 👾 Hi, I'm Back-End Engineer, TProgramer!
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TProgramer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -18,14 +18,17 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)  
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 ![Elastic Search](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white)  
-![Github Actions](https://img.shields.io/badge/Github%20Actions-2088FF?style=flat-square&logo=Github%20Actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-4A154B?style=flat-square&logo=Docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
-![AmazonAWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)  
+![K3s](https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=K3s&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)  
+![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat-square&logo=Amazon%20EKS&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=Helm&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=Istio&logoColor=white)  
+![Github Actions](https://img.shields.io/badge/Github%20Actions-2088FF?style=flat-square&logo=Github%20Actions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=Argo&logoColor=white)  
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 <br><br>
@@ -34,23 +37,9 @@
 <br/>
 
 **road to devops engineer skilled in networking, monitoring, and pipeline automation 🚀  
-I have experience 6 months of WEB backend development and deployment in AWS  
-At present, I have been interested in creating API server with Nest.js and orchestration containers with K8S  
-Sometimes I develop cross-platforms mobile app with Flutter (also interested in native✨)**  
+I have experience 6 months of Back-End development and deployment in AWS  
+At present, I have been interested in managing API server with Nest.js and orchestration containers with K8S  
+Sometimes I develop hybrid web-app as toy project (also interested in native✨)**  
 
 **I enjoy table tennis, badminton and driving. 🎾  
 I hope to develop convient tools for our lives. 👯**  
-<!--
-**TProgramer/TProgramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
