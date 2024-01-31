@@ -6,7 +6,7 @@
 
 </div>
 
-### 👾 Hi, I'm Back-End Engineer, TProgramer!
+### 👾 Hi, I'm Software Engineer, TProgramer!
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TProgramer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
