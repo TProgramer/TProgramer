@@ -2,7 +2,9 @@
 
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTProgramer&count_bg=%237B98E3&title_bg=%23B668DD&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/TProgramer)<br/><br/><br/><br/>
+[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FTProgramer?color=blue&label=Hits&size=medium)](https://myhits.vercel.app)
+
+<br/><br/><br/><br/>
 
 </div>
 
