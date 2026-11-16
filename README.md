@@ -10,18 +10,30 @@
 
 ### 👾 I'm Software Engineer, TProgramer!
 <br/>
-As an engineer, I focus on delivering meaningful technical outcomes<br/>
-by understanding problems from the user's perspective<br/>
-and iterating through the process of prioritizing, implementing, and gathering feedback on applicable technical solutions.
-<br/>
+I'm an AI Product Engineer with two years of experience. I have taken an educational LLM service with 16,000 MAU from planning through development and operations, and resolved the cost, performance, and reliability issues that arose along the way.<br/><br/>
+I have hands-on experience building web services with Angular, GraphQL, AWS, and GCP, as well as designing and implementing an AI service composed of a multi-LLM gateway, guardrails, and health monitoring.<br/><br/>
+Because I focus on delivering business impact, not just technical polish, I identify problems from user feedback and operational metrics, compare technical solutions, and improve service quality and operational efficiency.<br/><br/>
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=TProgrammer)](https://solved.ac/TProgrammer/)-->
 <br/>
 
+### 🌌 I've been...
+<br/>
+
+Full-stack developer on the development team of Tooning, a generative AI education platform with 100K MAU, responsible for AI service development and platform management and operations.
+
+- Launched an educational LLM service MVP in two months, then contributed to its growth to 16K MAU through continuous operation and improvement
+- Built a guardrail system that filters inappropriate user questions and harmful content in LLM responses
+- Reduced LLM API costs for service operation by 31% using semantic caching, context compression, and local LLM serving
+- Monitored users and errors with Sentry, GA4, and AWS CloudWatch, then addressed churn factors, contributing to an 8 percentage-point increase in 7-day retention for new users
+- Designed and built a system for managing instructors' personal information, eliminating the bottleneck of handling roughly 100 related inquiries per month that the in-house CS team had been processing manually
+- Led the development of an internal MCP server and a domain-knowledge documentation campaign, contributing to standardizing the company's AI-enabled work environment
+<br><br>
+
 ### 🔭 I'm working with...
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TProgramer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=TProgramer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square)
@@ -30,33 +42,12 @@ and iterating through the process of prioritizing, implementing, and gathering f
 ![AngularJS](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
 <br/>
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 <br/>
 ![Docker](https://img.shields.io/badge/Docker-4A154B?style=flat-square&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
-![K3s](https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=K3s&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=Helm&logoColor=white)
-![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=Istio&logoColor=white)
 <br/>
 ![Github Actions](https://img.shields.io/badge/Github%20Actions-2088FF?style=flat-square&logo=Github%20Actions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=Argo&logoColor=white)
 ![Amazon Web Service](https://img.shields.io/badge/Amazon%20Web%20Service-FF9900?style=flat-square&logo=AWS&logoColor=white)
-<br/>
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
-<br><br>
-<!--![Elastic Search](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white)--><br/>
-### 🌌 I'm looking for...
-<br/>
-
-road to devops engineer skilled in networking, monitoring, and pipeline automation 🚀  
-I have experience 6 months of Back-End development and deployment in AWS  
-At present, I have been interested in managing API server with Nest.js and orchestration containers with K8S  
-Sometimes I develop hybrid web-app as toy project (also interested in native✨)**  
-
-I enjoy table tennis, badminton and running 🎾  
-I hope to develop convient tools for our lives 👯
